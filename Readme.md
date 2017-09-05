@@ -1,4 +1,3 @@
+Instruction for running the project
 
-Instruction for run proyect
-
- - To run the testing project, run pod install from the Example directory first and open TestReignDesign.xcworkspace file
+ - To run the testing project, first execute "pod install" from the Example directory and open the TestReignDesign.xcworkspace file.
